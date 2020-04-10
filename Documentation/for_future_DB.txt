@@ -1,0 +1,39 @@
+Issue Date
+Author
+Title
+Subject
+Submit Date
+Content types
+Edition containing
+ISSN
+Publishers
+Languages
+
+
+Article
+	Issue Date
+	Author(Role) ---?
+	Title
+	Subject
+	Submit Date
+	Content type
+	ISSN
+	Publisher(User)
+	Language
+	Text
+
+Content types
+	ID
+	Name
+
+Languages
+	ID
+	Name
+
+Subject
+	ID
+	Name
+	
+User - > IdentityUser
+
+Admin
